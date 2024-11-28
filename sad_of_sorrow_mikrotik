@@ -1,0 +1,128 @@
+# https://github.com/brun0mour4
+# Naruto sad of sorrow
+
+:beep frequency=370 length=250ms;   # F#4
+:delay 250ms;
+:beep frequency=330 length=250ms;  # E4
+:delay 250ms;
+:beep frequency=247 length=2500ms;  # B4
+:delay 2500ms;
+
+:beep frequency=330 length=500ms;  # E4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=440 length=1000ms;  # A4
+:delay 1000ms;
+
+:beep frequency=330 length=3000ms;  # E4
+:delay 3000ms;
+:beep frequency=392 length=2000ms;  # G4
+:delay 2000ms;
+
+:beep frequency=370 length=500ms;   # F#4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=440 length=500ms;  # A4
+:delay 500ms;
+:beep frequency=294 length=500ms;  # D4
+:delay 500ms;
+
+:beep frequency=494 length=2000ms;  # B4
+:delay 2000ms;
+
+:beep frequency=440 length=2000ms;  # A4
+:delay 2000ms;
+
+:beep frequency=370 length=250ms;   # F#4
+:delay 250ms;
+:beep frequency=330 length=250ms;  # E4
+:delay 250ms;
+:beep frequency=247 length=2500ms;  # B4
+:delay 2500ms;
+
+:beep frequency=330 length=500ms;  # E4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=440 length=1000ms;  # A4
+:delay 1000ms;
+
+:beep frequency=330 length=3000ms;  # E4
+:delay 3000ms;
+:beep frequency=392 length=2000ms;  # G4
+:delay 2000ms;
+
+:beep frequency=370 length=500ms;   # F#4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=440 length=500ms;  # A4
+:delay 500ms;
+:beep frequency=294 length=500ms;  # D4
+:delay 500ms;
+
+:beep frequency=330 length=4000ms;  # E4
+:delay 4000ms;
+
+
+:delay 2000ms;# Pausa de minima
+
+:delay 500ms; # Pausa de colcheia
+:beep frequency=330 length=500ms;  # E4
+:delay 500ms;
+:beep frequency=370 length=500ms;   # F#4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+
+:beep frequency=440 length=500ms;  # A4
+:delay 500ms;
+:beep frequency=494 length=500ms;  # B4
+:delay 500ms;
+:beep frequency=330 length=500ms;  # E4
+:delay 500ms;
+:beep frequency=392 length=1000ms;  # G4
+:delay 1000ms;
+
+:beep frequency=370 length=1500ms;   # F#4
+:delay 1500ms;
+
+:beep frequency=330 length=4000ms;  # E4
+:delay 4000ms;
+
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=440 length=500ms;  # A4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+
+:beep frequency=370 length=1500ms;   # F#4
+:delay 1500ms;
+:beep frequency=494 length=1000ms;  # B4
+:delay 1000ms;
+
+:beep frequency=494 length=2000ms;  # B4
+:delay 2000ms;
+
+:beep frequency=440 length=2000ms;  # A4
+:delay 2000ms;
+
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=440 length=500ms;  # A4
+:delay 500ms;
+:beep frequency=392 length=500ms;  # G4
+:delay 500ms;
+:beep frequency=247 length=1000ms;  # B3
+:delay 1000ms;
+
+:beep frequency=330 length=4000ms;  # E4
+:delay 4000ms;
+
+:delay 2000ms; #pausa de minina
+
+
+###
