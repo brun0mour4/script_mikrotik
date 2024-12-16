@@ -1,5 +1,5 @@
 # https://github.com/brun0mour4
-# Naruto sad of sorrow
+# Naruto sadness of sorrow
 
 :beep frequency=370 length=250ms;   # F#4
 :delay 250ms;
